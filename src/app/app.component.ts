@@ -8,7 +8,6 @@ Maps.Inject(Marker);
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
     imports: [
-    BrowserModule,
     MapsModule
   ],
   providers: [MapsTooltipService],
